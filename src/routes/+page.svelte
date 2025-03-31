@@ -39,7 +39,7 @@
 							Gestão Eficiente
 						</span>
 						<span
-							class="flex flex-col items-center justify-center gap-2 text-4xl font-extrabold tracking-tight sm:text-5xl"
+							class="flex flex-col justify-center gap-2 text-4xl font-extrabold tracking-tight sm:text-5xl"
 						>
 							<span class="block text-gray-900 uppercase">Simplifique o</span>
 							<span class="block text-sky-600 uppercase">Cadastro de Usuários</span>
